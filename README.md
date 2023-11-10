@@ -47,6 +47,6 @@ Features:
 
 |⭐️| Frontend |⭐️| Backend |⭐️| QA |  
 |-|-|-|-|-|-|   
-|1|[Боровиков Евгений](https://github.com/evvlboro)|1|[Сарипова Алсу](https://github.com/justel-seth)|1| [Удалов Дмитрий](https://github.com/DmitriiUdalov)|  
-|2|[Мээрим](https://github.com/W66LIW)|2|[Луконин Дмитрий](https://github.com/LukoninDmitryPy)|2| [Бурсов Сергей](https://github.com/SergejBursow)|  
-|3|[Кирилл](https://github.com/KirillDemyanenko)|3| [Петр](https://github.com/tenser-pit)|3|[Стачев Марк](https://github.com/MarkStachev)|  
+|1|[Evgeniy Borovikov](https://github.com/evvlboro)|1|[Alsu Saripova](https://github.com/justel-seth)|1| [Dmitrii Udalov](https://github.com/DmitriiUdalov)|  
+|2|[Meerim](https://github.com/W66LIW)|2|[Dmitry Lukonin](https://github.com/LukoninDmitryPy)|2| [Sergej Bursow](https://github.com/SergejBursow)|  
+|3|[Kirill](https://github.com/KirillDemyanenko)|3| [Petr](https://github.com/tenser-pit)|3|[Mark Stachev](https://github.com/MarkStachev)|
