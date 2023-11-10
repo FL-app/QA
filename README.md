@@ -1,10 +1,10 @@
 # FLApp (Friends Locator Application)
 
-### Link for the website:
+### 🌐 Link for the website:
 
 TBA
 
-### Project description:
+### ✏️ Project description:
 
 Web application for finding friends on the map. Here people can search and add new friends, share their geolocation and see the location of a friend, gather for fun meetings and have a great time.
 
@@ -37,37 +37,16 @@ Features:
     - You can remove users from friends
     - Admin-zone
 
-### Project authors:
+### ⚛️ Project authors:
 
-Vladislav Kisaev - PM  
-https://github.com/jacksparrowad
+[Vladislav Kisaev](https://github.com/jack_sparrow_ad) - **PM** 
 
-Oksana Anikina - UI/UX  
-https://github.com/OksiAnikdsgn
+[Oksana Anikina](https://github.com/OksiAnikdsgn) - **UI/UX**  
 
-Daria Zvonkaja - UI/UX  
-https://github.com/DariaZvonkaja
+[Daria Zvonkaja](https://github.com/DariaZvonkaja) - **UI/UX**  
 
-Evgeniy Borovikov - Frontend  
-https://github.com/evvlboro
-
-Meerim - Frontend  
-https://github.com/W66LIW
-
-Edgar Asatryan - Frontend  
-https://github.com/Edgar200021
-
-Alsu Saripova - Backend  
-https://github.com/justel-seth
-
-Dmitry Lukonin - Backend  
-https://github.com/LukoninDmitryPy
-
-Dmitrii Udalov - QA  
-https://github.com/DmitriiUdalov
-
-Sergej Bursow - QA  
-https://github.com/SergejBursow
-
-Mark Stachev - QA  
-https://github.com/MarkStachev
+|⭐️| Frontend |⭐️| Backend |⭐️| QA |  
+|-|-|-|-|-|-|   
+|1|[Боровиков Евгений](https://github.com/evvlboro)|1|[Сарипова Алсу](https://github.com/justel-seth)|1| [Удалов Дмитрий](https://github.com/DmitriiUdalov)|  
+|2|[Мээрим](https://github.com/W66LIW)|2|[Луконин Дмитрий](https://github.com/LukoninDmitryPy)|2| [Бурсов Сергей](https://github.com/SergejBursow)|  
+|3|[Кирилл](https://github.com/KirillDemyanenko)|3| [Петр](https://github.com/tenser-pit)|3|[Стачев Марк](https://github.com/MarkStachev)|  
